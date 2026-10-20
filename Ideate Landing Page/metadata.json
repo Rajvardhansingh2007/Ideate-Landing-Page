@@ -1,0 +1,6 @@
+{
+  "name": "Techfest, IIT Bombay — Asia's Largest Science & Technology Festival",
+  "description": "Official landing page for Techfest, IIT Bombay. Experience Asia's premier festival of robotics, breakthrough engineering, international exhibitions, and future technologies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
